@@ -1298,4 +1298,4 @@
         '</div>' : '')
         );
     };
-})(window.jQuery)
+})(window.jQuery);
